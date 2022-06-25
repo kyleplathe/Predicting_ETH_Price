@@ -20,7 +20,7 @@
     - There has been numerous exploits in crypto
     - We want to use machine learning tools to help us make decision when furture exploits happen
     - We will evaluate the effects of exploits on Ethereum blockchain by extracting different sources of data
-    - We will to choose and compare the perfromance of differenct machine learning models we used when evaluating the effects of exploits 
+    - We will choose and compare the perfromance of differenct machine learning models we used when evaluating the effects of exploits 
     - Our goal for this project is to predict how the market will respond when explots happen
 
 ## Data Collection & Cleaning
