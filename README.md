@@ -5,6 +5,6 @@
 - [x] Add Crypto Exploits history csv data from [CryptoSec](https://cryptosec.info/defi-hacks/)
 - [x] Select Model to use. 
     - LSTM model
-- [] Add Jupyter Notebook with analysis
-- [] Add Presentaion 
-- [] Update Readme changes
+- [x] Add Jupyter Notebook with analysis
+- [ ] Add Presentaion 
+- [ ] Update Readme changes
