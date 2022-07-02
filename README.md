@@ -4,13 +4,21 @@
 
 <details>
 <ol>
-1. Motivation & Summary Slide
-2. Data Collection and Clenaing
-3. Training model
-4. Visualization
-5. Postmortem
-6. Questions
-7. Contributions
+<li>
+Motivation & Summary Slide
+<li>
+Data Collection and Clenaing
+<li>
+Training model
+<li>
+Visualization
+<li>
+Postmortem
+<li>
+Questions
+<li>
+Contributions
+</li>
 </ol>
 </details>
 
@@ -101,7 +109,7 @@
 
 ## Technical Requirements
 
-- [ ] Create notebook
+- [x] Create notebook
 
 - [ ] Optionally, apply a dimensionality reduction technique
 
@@ -121,7 +129,7 @@
 
 - [ ] Use one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class.
 
-- [ ] Create a README.md 
+- [x] Create a README.md 
 
 - [ ] Include any usage instructions to set up and use the model.
 
