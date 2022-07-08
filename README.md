@@ -27,6 +27,8 @@
     - Long Short-Term Memory (LSTM) model from keras
     - Gated Recurrent Unit (GRU) model form keras
 
+- Spliting our data to train and test 
+
 ![GRU Model Peerformance](./images/train_test_split.png)
 
 ![LSTM Model Peerformance](./images/lstm_prediction.png)
