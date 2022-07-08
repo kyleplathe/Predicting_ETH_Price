@@ -1,5 +1,7 @@
 # Group Project 2
 
+![presentation_gif](./images/project_gif.gif)
+
 ## Table of Contents
 
 1. Hypothesis
@@ -58,12 +60,19 @@
 
 ## Presentation & Files
 
-**File:** [Gas price data collection](./eth_gas_price_history_data_collection.ipynb)
-**File:** [Twint Protocal data collection](./Twint_protocol_2.ipynb)
-**File:** [Eth data cleanup](./Eth%20Data%20Cleanup.ipynb)
-**File:** [Sentiment Analysis](./Sentiment.ipynb)
-**File:** [LSTM Model price predictions](./lstm_for_eth_price_prediction.ipynb)
-**File:** [GRU Model price predictions](./ETH%20GRU%20Prediction.ipynb)
-**File:** [Project Presentation](./group_project_2_presentation.pdf)
+**Files:** 
+- [Gas price data collection](./eth_gas_price_history_data_collection.ipynb)
 
-- - -
+- [Twint Protocal data collection](./Twint_protocol_2.ipynb)
+
+- [Eth data cleanup](./Eth%20Data%20Cleanup.ipynb)
+
+- [Sentiment Analysis](./Sentiment.ipynb)
+
+- [LSTM Model price predictions](./lstm_for_eth_price_prediction.ipynb)
+
+- [GRU Model price predictions](./ETH%20GRU%20Prediction.ipynb)
+
+- [Project Presentation](./group_project_2_presentation.pdf)
+
+
