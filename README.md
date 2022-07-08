@@ -2,19 +2,13 @@
 
 ## Table of Contents
 
-<details>
-<ol>
-<li>
-Hypothesis
-<li>
-Data Collection and Clenaing
-<li>
-Choices for models & Perfromance
-<li>
-Contributions
-</li>
-</ol>
-</details>
+1. Hypothesis
+
+2. Data Collection and Clenaing
+
+3. Choices for models & Perfromance
+
+4. Contributions
 
 ## Hypothesis
 
