@@ -55,4 +55,15 @@
     - Twitter api sentiment analysis with nltk and vader
     - Perfromed PCA analysis
 
+
+## Presentation & Files
+
+**File:** [Gas price data collection](./eth_gas_price_history_data_collection.ipynb)
+**File:** [Twint Protocal data collection](./Twint_protocol_2.ipynb)
+**File:** [Eth data cleanup](./Eth%20Data%20Cleanup.ipynb)
+**File:** [Sentiment Analysis](./Sentiment.ipynb)
+**File:** [LSTM Model price predictions](./lstm_for_eth_price_prediction.ipynb)
+**File:** [GRU Model price predictions](./ETH%20GRU%20Prediction.ipynb)
+**File:** [Project Presentation](./group_project_2_presentation.pdf)
+
 - - -
