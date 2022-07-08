@@ -33,10 +33,10 @@
 
 - LSTM vs GRU model perfromances
     - LSTM evaluation had 8.98% loss, 91% accuracy 
+    ![LSTM Model Peerformance](./images/lstm_prediction.png)
+    
     - GRU evaluation had 10.65% loss, 89.35% accuracy
-![LSTM Model Peerformance](./images/lstm_prediction.png)
-
-![GRU Model Peerformance](./images/gru_prediction.png)
+    ![GRU Model Peerformance](./images/gru_prediction.png)
 
 ## Contributions
 
