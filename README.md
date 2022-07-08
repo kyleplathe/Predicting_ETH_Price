@@ -18,10 +18,11 @@
 ## Data Collection & Cleaning
 
 - Our Sources were: 
-- Twint Protocol for Collecting tweet data 
-- Owlracle API for collecting Gas price history 
-- Kaggle for ETH to USD Historical Data - FRED for personal savings percentage data 
-- Market Watch for S&P 500 historical data
+    - [Twint Protocol](https://github.com/twintproject/twint) for Collecting tweet data 
+    - [OWlracle API](https://owlracle.info/eth) for collecting Gas price history 
+    - [Kaggle](https://www.kaggle.com/datasets/varpit94/ethereum-data) for ETH to USD Historical Data 
+    - FRED for personal savings percentage data 
+    - Market Watch for S&P 500 historical data
 
 ## Choices for models
 
