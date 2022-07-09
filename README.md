@@ -23,14 +23,14 @@ Finally after gathering all the dat I needed fro my machine learnign models I tr
 - Lstm model had a 8.98% loss, a 91% accuracy
 ![](./images/lstm_prediction.png)
 
-## Future Improvements
+### Future Improvements
 
 - Possibly collect market cap data from crypto market. 
 - Due to time running out to submit this project I didn't have the opportunity and time to explore effects of global market cap data on the price of ethereum, I have a feeling that could be useful.
 - I suspect occurences of cryptocurrency thefts and bad exploits could be affecting price movements possibly causing shifts in the sentiment around cryptocurrency users. 
 - However, this is just a speculation that can tested when we use the historical data on exploits on blockchain companies to train our model for future predictions.
 
-## Checklist
+### Checklist
 
 - [x] Selected all Models to use and compare. 
     - LSTM model
