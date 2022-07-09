@@ -25,7 +25,7 @@ Finally after gathering all the dat I needed fro my machine learnign models I tr
 - Lstm model had a 8.98% loss, a 91% accuracy
 ![](./images/lstm_prediction.png)
 
-## Improvements
+## Future Improvements
 
 - Possibly collect market cap data from crypto market. 
 - Due to time running out to submit this project I didn't have the opportunity and time to explore effects of global market cap data on the price of ethereum, I have a feeling that could be useful.
