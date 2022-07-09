@@ -1,5 +1,3 @@
-# Meek Updates
-
 ## Updates
 
 - Resources used:
